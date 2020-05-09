@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "38840410793",
+    "firebase_url": "https://prune-flutter.firebaseio.com",
+    "project_id": "prune-flutter",
+    "storage_bucket": "prune-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38840410793:android:569548bd6779c1b857bfb8",
+        "android_client_info": {
+          "package_name": "com.drakenetworks.prune_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38840410793-kng9vpvue19l79hen0dsbkgsqpj87f6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNPbu_zQGo6CrwoKdjUMDc4lI3nTqCSsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38840410793-kng9vpvue19l79hen0dsbkgsqpj87f6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
